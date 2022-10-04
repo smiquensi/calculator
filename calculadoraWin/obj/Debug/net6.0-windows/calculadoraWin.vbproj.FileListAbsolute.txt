@@ -1,0 +1,17 @@
+C:\www\disenyoInterfaces\calculadoraWin\calculadoraWin\bin\Debug\net6.0-windows\calculadoraWin.exe
+C:\www\disenyoInterfaces\calculadoraWin\calculadoraWin\bin\Debug\net6.0-windows\calculadoraWin.deps.json
+C:\www\disenyoInterfaces\calculadoraWin\calculadoraWin\bin\Debug\net6.0-windows\calculadoraWin.runtimeconfig.json
+C:\www\disenyoInterfaces\calculadoraWin\calculadoraWin\bin\Debug\net6.0-windows\calculadoraWin.dll
+C:\www\disenyoInterfaces\calculadoraWin\calculadoraWin\bin\Debug\net6.0-windows\calculadoraWin.pdb
+C:\www\disenyoInterfaces\calculadoraWin\calculadoraWin\obj\Debug\net6.0-windows\calculadoraWin.vbproj.AssemblyReference.cache
+C:\www\disenyoInterfaces\calculadoraWin\calculadoraWin\obj\Debug\net6.0-windows\calculadoraWin.Form1.resources
+C:\www\disenyoInterfaces\calculadoraWin\calculadoraWin\obj\Debug\net6.0-windows\calculadoraWin.vbproj.GenerateResource.cache
+C:\www\disenyoInterfaces\calculadoraWin\calculadoraWin\obj\Debug\net6.0-windows\calculadoraWin.GeneratedMSBuildEditorConfig.editorconfig
+C:\www\disenyoInterfaces\calculadoraWin\calculadoraWin\obj\Debug\net6.0-windows\calculadoraWin.AssemblyInfoInputs.cache
+C:\www\disenyoInterfaces\calculadoraWin\calculadoraWin\obj\Debug\net6.0-windows\calculadoraWin.AssemblyInfo.vb
+C:\www\disenyoInterfaces\calculadoraWin\calculadoraWin\obj\Debug\net6.0-windows\calculadoraWin.vbproj.CoreCompileInputs.cache
+C:\www\disenyoInterfaces\calculadoraWin\calculadoraWin\obj\Debug\net6.0-windows\calculadoraWin.dll
+C:\www\disenyoInterfaces\calculadoraWin\calculadoraWin\obj\Debug\net6.0-windows\refint\calculadoraWin.dll
+C:\www\disenyoInterfaces\calculadoraWin\calculadoraWin\obj\Debug\net6.0-windows\calculadoraWin.pdb
+C:\www\disenyoInterfaces\calculadoraWin\calculadoraWin\obj\Debug\net6.0-windows\calculadoraWin.genruntimeconfig.cache
+C:\www\disenyoInterfaces\calculadoraWin\calculadoraWin\obj\Debug\net6.0-windows\ref\calculadoraWin.dll
